@@ -23,7 +23,7 @@ var opts = {
 
 var Webcam = NodeWebcam.create( opts );
 // replace the value below with the Telegram token you receive from @BotFather
-const token = '5248165058:AAHjVQZtzTwWAz7nZQ9ATTAAnTZ8zbA1zDI';
+const token = 'TOKEN TELE';
 const bot = new TelegramBot(token, {polling: true});
 bot.onText(/\/echo (.+)/, (msg, match) => {
   const chatId = msg.chat.id;
