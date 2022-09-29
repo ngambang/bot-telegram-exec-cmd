@@ -1,0 +1,16 @@
+{
+  "name": "tele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ngambang",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "node-webcam": "^0.8.1",
+  }
+}
