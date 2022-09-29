@@ -15,3 +15,9 @@ terdapat 3 perintah
 ```
 
 ![alt text](notif.png)
+
+cara agar bisa dijalankan waktu windows dinyalakan 
+npm install pm2 -g
+
+lalu tekan tombol logo Windows  + R, ketik shell:startup, lalu pilih OK. Folder Startup akan terbuka.
+buat shortcut lalu pilih app.bat
