@@ -13,3 +13,5 @@ terdapat 3 perintah
   
 /photo untuk mengambil gambar dari webcam 
 ```
+
+![alt text](notif.png)
