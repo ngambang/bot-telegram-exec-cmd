@@ -21,3 +21,6 @@ npm install pm2 -g
 
 lalu tekan tombol logo Windows  + R, ketik shell:startup, lalu pilih OK. Folder Startup akan terbuka.
 buat shortcut lalu pilih app.bat
+
+
+[saweria ngambangdotcom](https://saweria.co/ngambangdotcom)
